@@ -41,19 +41,19 @@ The Sklearn one-hot encoding was used to encoding all the cartegorical variables
 avoid dummy variable trap
 
 SCALING 
+
 All numerical columns where scaled 
-
-Hyperparameter Tuning and Cross-Validation
-
-Model was tuned using both the grid search and randomised search cv to improve model performance and cross-validated to view 
-the model ability to generalise
-Prediction
-Model was prediction accuracy was 80.3%
-
 
 Modeling
 
 Five models were built and the best model being the random forest was selected.
 
+Hyperparameter Tuning and Cross-Validation
+
+Model was tuned using both the grid search and randomised search cv to improve model performance and cross-validated to view 
+the model ability to generalise
+
+Prediction
+Model was prediction accuracy was 80.3%
 
 
