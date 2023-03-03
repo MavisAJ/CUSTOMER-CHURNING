@@ -55,6 +55,6 @@ the model ability to generalise
 
 Prediction
 
-Model was prediction accuracy was 80.3%
+Model prediction accuracy was 80.3%
 
 
